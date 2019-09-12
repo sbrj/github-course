@@ -9,3 +9,5 @@ Testando com git!
 Conheça o Beco das Garrafas! http://becodagarrafas.mus.br
 
 Método de ver commit!
+
+comentando!
